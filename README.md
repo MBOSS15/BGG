@@ -1,1 +1,2 @@
-website for computer science
+website for Computer Science
+Business Gosse Global
