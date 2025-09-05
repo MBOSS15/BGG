@@ -1053,3 +1053,10 @@ footer{
   vertical-align: middle;
   margin-right: -0.8rem;
 }
+.back-link {
+  margin: 3rem;
+  border: #2e6358 solid 2px;
+  border-radius: 20px;
+  padding: 8px 16px;
+  align-items: center;
+}
