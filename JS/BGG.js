@@ -103,37 +103,37 @@ document.addEventListener("DOMContentLoaded", () => {
     const data = {
         "2012": {
             title: "2012 – First Goose-Funded Venture",
-            image: "images/Timeline/2012.PNG",
+            image: "Images/Timeline/2012.PNG",
             text: "Our feathered financiers shook wings on the deal of the century—boxes of sardines were the currency, and the first goose-run business took flight! Investors were skeptical, but the penguins waddled in with confidence. Every crate of sardines was accounted for, proving that cold-blooded logic can be fish-ionably effective. Who knew a penguin handshake could seal a deal better than a human one? This was the start of a new era where feathers meet finance."
         },
         "2013": {
             title: "2013 – First Office",
-            image: "images/Timeline/2013.PNG",
+            image: "Images/Timeline/2013.PNG",
             text: "Ice-cold ambition, zero desks, unlimited coffee—our penguins slid right into work. The office was a minimalist paradise: no chairs, no cubicles, just frozen floors and ice cubes for seating. Productivity soared despite the freezing temperatures, proving that penguins thrive under pressure (and frostbite). Innovation was in the air—or maybe that was just the cold! It was the perfect environment for chilling out while warming up to big ideas."
         },
         "2014": {
             title: "2014 – Global Market Success",
-            image: "images/Timeline/2014.PNG",
+            image: "Images/Timeline/2014.PNG",
             text: "Penguin power slid across the floor and straight into the global market. From waddling to Wall Street, these flocks proved that cold feet can make hot profits. Stock charts rose like flocks in flight, and every successful trade made feathers ruffle in excitement. The penguins’ secret? Timing, teamwork, and a touch of icy intuition. Success had never looked so slick or so slippery."
         },
         "2016": {
             title: "2016 – First Merger: Business Goose Global + Goosetech",
-            image: "images/Timeline/2016.PNG",
+            image: "Images/Timeline/2016.PNG",
             text: "When two flocks collide, feathers fly! The first successful merger had tongues wagging and wings clapping. Combining brains, wings, and tech-savvy beaks, these companies proved synergy isn’t just a buzzword—it’s a buzzard. Office parties featured more honking than human applause, and shareholders were over the moon (or the iceberg). This merger wasn’t just history; it was herstory in the making."
         },
         "2018": {
             title: "2018 – Breadcoin Launch",
-            image: "images/Timeline/2018.PNG",
+            image: "Images/Timeline/2018.PNG",
             text: "Our most bread-winning venture yet! Breadcoin took the world by storm, proving that even penguins can make dough in the digital age. Transactions were quick, safe, and deliciously profitable, with investors lining up like geese at feeding time. Memes went viral, and the brand spread faster than a flock on the ice. It wasn’t just a coin—it was a feathered fortune!"
         },
         "2021": {
             title: "2021 – Penguin MBA Graduation",
-            image: "images/Timeline/2021.PNG",
+            image: "Images/Timeline/2021.PNG",
             text: "From ice to ivory tower, our penguin scholars earned their MBAs with flying colors (and lots of feathers). Courses ranged from “Advanced Fishomics” to “Slide Management 101,” equipping penguins for high-level corporate strategy. Proud families honked in the stands as graduates waddled across the stage. Knowledge really does stick to your beak, and these scholars proved that education can be both rigorous and fun. This batch of MBAs is ready to take over boardrooms worldwide."
         },
         "2025": {
             title: "2025 – First Interspecies Branch",
-            image: "images/Timeline/2025.PNG",
+            image: "Images/Timeline/2025.PNG",
             text: "Breaking the ice on diversity! Business Goose Global welcomed new species into the flock, expanding beyond the traditional penguin workforce. Collaboration was key, and interspecies teams brought fresh ideas, creative solutions, and a lot of squawks (and some hisses). The first interspecies branch proved that inclusion isn’t just a policy—it’s a strategy for success. Innovation thrived, friendships formed, and the company became a beacon for collaborative ingenuity. Feathers, fur, and fins: together, they soared."
         }
     };
