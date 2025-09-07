@@ -1175,3 +1175,13 @@ footer{
     margin-left: 110px;
   }
 }
+.Hero, 
+.FeatureArticle, 
+#MediaGrid {
+  width: 90%;              /* keep consistent with other sections */
+  max-width: 900px;       /* align with --maxw */
+  margin-left: auto;       /* center horizontally */
+  margin-right: auto;      /* never touch screen edges */
+  box-sizing: border-box;  /* include padding inside width */
+  margin-bottom: 3rem;
+}
