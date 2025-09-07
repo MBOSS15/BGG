@@ -561,6 +561,15 @@ section[id] {
     color: #ffffff;
     text-decoration: underline;
 }
+@media (min-width: 1200px) {
+  .dropdown,
+  .overlay2,
+  .sidebar {
+    visibility: hidden;
+    opacity: 0;
+    display: none !important;
+  }
+}
 /*end of dropdown*/
 .main{
   max-width: var(--maxw);
@@ -701,8 +710,10 @@ footer{
   .StateOfTheArt, .Cover, .meme, .Point, .CorporateLore, .Values, 
   .Headed, .Do, .Media, .Goose, .Productivity, .BreadCoin, 
   .Additional, .FunFacts, .Socials, .FindUs {
+    margin: 0;
+    padding: 0;
     margin-left: -10px;
-    width: 500px;
+    width: 500px; 
     margin: 0 auto 2rem auto; /* centers + spacing */
     padding: 1rem; /* smaller padding on small screens */
   }
