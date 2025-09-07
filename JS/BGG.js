@@ -59,8 +59,22 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
     setTimeout(() => target.classList.remove("highlight"), 1500);
   });
 });
-
-// ===== Timeline =====
+//sizing//
+  const mq = window.matchMedia('(max-width: 1080px)');
+  function toggleDropdownJS() {
+    const disable = mq.matches;
+    document.querySelectorAll('.dropdown').forEach(dd => {
+      // close anything that might be open
+      dd.classList.remove('open');
+      // optionally stop pointer/keyboard interaction entirely
+      dd.style.pointerEvents = disable ? 'none' : '';
+    });
+  }
+  mq.addEventListener('change', toggleDropdownJS);
+  toggleDropdownJS(); // run once on load
+  //end of sizing//
+  
+// ===== Timeline =====//
 document.addEventListener("DOMContentLoaded", () => {
   const timelineItems = document.querySelectorAll(".timeline-item");
   const titleEl = document.getElementById("timeline-title");
